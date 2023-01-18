@@ -1,0 +1,31 @@
+_repo: The-Circe-of-the-deserts_69806
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry-Bordeaux, Paule
+    aliases:
+    - Masclary, Bernard, comtesse de
+    - Bordeaux, Paule Henry
+    birthdate: 1903
+    deathdate: 1999
+    gutenberg_agent_id: '54709'
+    url: http://www.gutenberg.org/2009/agents/54709
+description: ''
+gutenberg_issued: '2023-01-15'
+identifiers:
+  gutenberg: '69806'
+language: en
+pgterms:marc904: https://archive.org/details/circeofdeserts0000henr/mode/1up
+pgterms:marc905: 20221226023418henryborde
+pgterms:marc906: '1925'
+pgterms:marc907: gb
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: 'United Kingdom: Hurst & Blackett, ltd.,1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Circe of the deserts
+url: http://www.gutenberg.org/ebooks/69806
